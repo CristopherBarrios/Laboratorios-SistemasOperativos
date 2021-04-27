@@ -1,0 +1,18 @@
+
+pid[2]
+deadline[15000000000]
+Before sched_setscheduler:priority 0
+After sched_setscheduler:priority 0
+
+Task(2) has just started
+Job(2,1) starts
+Job(2,1) ends (1.340000)
+Job(2,2) starts
+Job(2,2) ends (1.370000)
+Job(2,3) starts
+Job(2,3) ends (1.360000)
+
+Task(2) has finished
+I will send a SIGUSR1 signal to start all tasks
+I will send a SIGUSR2 signal to finish all tasks
+All tasks have finished properly!!!
