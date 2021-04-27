@@ -1,0 +1,31 @@
+iniciando programa
+creado threads
+Iniciando thread 24810
+Iniciando iteracion 1
+24810 -- (!) - Recurso tomado
+24810 -- (.) - Usando recurso
+Iniciando thread 24811
+Iniciando iteracion 1
+Iniciando thread 24812
+Iniciando iteracion 1
+24810 --  :) - Recurso usado
+24810 -- ( ) - Recurso devuelto
+Iniciando iteracion 2
+24810 -- (!) - Recurso tomado
+24810 -- (.) - Usando recurso
+Iniciando thread 24814
+Iniciando iteracion 1
+Iniciando thread 24813
+Iniciando iteracion 1
+24810 --  :) - Recurso usado
+24810 -- ( ) - Recurso devuelto
+Iniciando iteracion 3
+24810 -- (!) - Recurso tomado
+24810 -- (.) - Usando recurso
+24810 --  :) - Recurso usado
+24810 -- ( ) - Recurso devuelto
+Iniciando iteracion 4
+24810 -- (!) - Recurso tomado
+24810 -- (.) - Usando recurso
+24810 --  :) - Recurso usado
+24810 -- ( ) - Recurso devuelto

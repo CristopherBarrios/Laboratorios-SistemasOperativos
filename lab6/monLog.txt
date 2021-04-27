@@ -1,0 +1,20 @@
+Initialized monitor
+iniciando programa
+creado threads
+Iniciando thread 35955
+Iniciando iteracion 1
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+Iniciando thread 35954
+Iniciando iteracion 1
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+Iniciando thread 35953
+Iniciando iteracion 1
+35955 --  :) - Recurso usado
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 2
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 -- ( ) - Recurso devuelto
